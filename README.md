@@ -1,2 +1,2 @@
-# AOA-Programs
-AOA Programming Project
+# aoa-programming-project
+Ananlysis of Algorithms programming project - Fall 2022
